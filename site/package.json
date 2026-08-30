@@ -62,7 +62,7 @@
     "webpack": "5.106.2"
   },
   "optionalDependencies": {
-    "sharp": "^0.34.5"
+    "sharp": "^0.35.0"
   },
   "overrides": {
     "lodash-es": "^4.18.1"
@@ -89,7 +89,7 @@
     "@mui/system": "^9.0.0",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
-    "dompurify": "^3.4.1",
+    "dompurify": "^3.4.13",
     "react-countup": "^6.5.3",
     "swiper": "^12.1.2"
   }
