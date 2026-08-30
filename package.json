@@ -252,7 +252,7 @@
     "playwright": "^1.59.1",
     "playwright-extra": "^4.3.6",
     "read-excel-file": "^9.0.0",
-    "sharp": "^0.34.5"
+    "sharp": "^0.35.0"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.92.0",
@@ -269,7 +269,7 @@
     "@opencode-ai/sdk": "^1.14.33",
     "@opentelemetry/api": "^1.9.0",
     "@opentelemetry/core": "^2.6.0",
-    "@opentelemetry/exporter-trace-otlp-http": "^0.216.0",
+    "@opentelemetry/exporter-trace-otlp-http": "^0.221.0",
     "@opentelemetry/resources": "^2.6.0",
     "@opentelemetry/sdk-trace-base": "^2.6.0",
     "@opentelemetry/sdk-trace-node": "^2.6.0",
